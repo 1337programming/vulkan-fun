@@ -1,1 +1,5 @@
 *.run
+VulkanSDK2
+*.html
+*.png
+*.css
