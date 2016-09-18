@@ -1,0 +1,5 @@
+/Users/patrick.opie/Documents/github/vulkan-fun/VulkanSDK/1.0.26.0/examples/build/CMakeFiles/edit_cache.dir
+/Users/patrick.opie/Documents/github/vulkan-fun/VulkanSDK/1.0.26.0/examples/build/CMakeFiles/rebuild_cache.dir
+/Users/patrick.opie/Documents/github/vulkan-fun/VulkanSDK/1.0.26.0/examples/build/CMakeFiles/cube.dir
+/Users/patrick.opie/Documents/github/vulkan-fun/VulkanSDK/1.0.26.0/examples/build/CMakeFiles/tri.dir
+/Users/patrick.opie/Documents/github/vulkan-fun/VulkanSDK/1.0.26.0/examples/build/CMakeFiles/vulkaninfo.dir
